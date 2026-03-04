@@ -25,9 +25,9 @@ Punto de entrada único de la aplicación que coordina la interacción entre los
 
 ## 4. Metodología de Implementación de POO
 Para el desarrollo de este sistema se han aplicado los siguientes pilares:
-- [cite_start]**Abstracción**: Modelado de las características esenciales de los activos comerciales[cite: 117].
-- [cite_start]**Encapsulamiento**: Protección del estado interno de los objetos mediante atributos privados y métodos controladores (Setters/Getters)[cite: 95, 98].
-- [cite_start]**Polimorfismo**: Redefinición de métodos para adaptar el cálculo de totales y descuentos según el tipo de producto o categoría de cliente[cite: 147, 150].
+- **Abstracción**: Modelado de las características esenciales de los activos comerciales[cite: 117].
+- **Encapsulamiento**: Protección del estado interno de los objetos mediante atributos privados y métodos controladores (Setters/Getters)[cite: 95, 98].
+- **Polimorfismo**: Redefinición de métodos para adaptar el cálculo de totales y descuentos según el tipo de producto o categoría de cliente[cite: 147, 150].
 
 
 - **Líder de Proyecto / Arquitecta de Datos**: Evelyn Monserrat Jimenez Balderas
