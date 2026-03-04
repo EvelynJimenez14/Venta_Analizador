@@ -1,4 +1,4 @@
-#Reporte
+# Reporte
 
 ## 1. Introducción
 El presente proyecto documenta el diseño e implementación de una aplicación modular orientada al análisis de datos de ventas. El sistema se fundamenta en el paradigma de Programación Orientada a Objetos (POO) para garantizar una arquitectura escalable, mantenible y reproducible, cumpliendo con los estándares requeridos en la asignatura de Desarrollo de Aplicaciones para Análisis de Datos.
@@ -25,11 +25,7 @@ Punto de entrada único de la aplicación que coordina la interacción entre los
 
 ## 4. Metodología de Implementación de POO
 Para el desarrollo de este sistema se han aplicado los siguientes pilares:
-- **Abstracción**: Modelado de las características esenciales de los activos comerciales[cite: 117].
-- **Encapsulamiento**: Protección del estado interno de los objetos mediante atributos privados y métodos controladores (Setters/Getters)[cite: 95, 98].
-- **Polimorfismo**: Redefinición de métodos para adaptar el cálculo de totales y descuentos según el tipo de producto o categoría de cliente[cite: 147, 150].
+- **Abstracción**: Modelado de las características esenciales de los activos comerciales.
+- **Encapsulamiento**: Protección del estado interno de los objetos mediante atributos privados y métodos controladores (Setters/Getters).
+- **Polimorfismo**: Redefinición de métodos para adaptar el cálculo de totales y descuentos según el tipo de producto o categoría de cliente.
 
-
-- **Líder de Proyecto / Arquitecta de Datos**: Evelyn Monserrat Jimenez Balderas
-- **Desarrollador de Modelos**: [Nombre]
-- **Analista de Procesamiento**: [Nombre]
